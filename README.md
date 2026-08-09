@@ -14,9 +14,12 @@ It supports both Arabic and English while preserving the original language.
 - Python 3.10+
 - Google Gemini API Key
 
-## How to Run
+## Deployment
 
-Install the required packages:
+The app is deployed using Streamlit Community Cloud.
+
+### Run Locally
 
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
