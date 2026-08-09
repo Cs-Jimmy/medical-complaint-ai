@@ -17,6 +17,7 @@ It supports both Arabic and English while preserving the original language.
 ## Deployment
 
 The app is deployed using Streamlit Community Cloud.
+**Live Application:** [Medical Complaint Normalizer](https://medical-complaint-ai.streamlit.app/)
 
 ### Run Locally
 
